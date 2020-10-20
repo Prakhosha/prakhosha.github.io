@@ -106,7 +106,8 @@ b {
 /* Intro section styles */
 
 .Hi {
-    max-width: 78rem;
+    border: 1px solid black;
+    max-width: 200rem;
     margin-right: auto;
     margin-left: auto;
     padding-right: 100px;
