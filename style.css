@@ -106,13 +106,13 @@ b {
 /* Intro section styles */
 
 .Hi {
-    max-width: 100rem;
+    max-width: 78rem;
     margin-right: auto;
     margin-left: auto;
     padding: 0 2rem
 }
 
-@media (max-width: 768px) {
+@media (max-width: 200px) {
     .Hi {
         padding:0 1rem
     }
