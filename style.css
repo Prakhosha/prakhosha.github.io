@@ -128,7 +128,7 @@ b {
     position: fixed;
     top: 0;
     height: 80vh;
-    width: 200%;
+    width: 100%;
     z-index: -1
 }
 
@@ -145,7 +145,7 @@ b {
 }
 
 .intro h1 {
-    width: 50%;
+    width: 100%;
     font-size: 2rem;
     font-size: calc(2rem + 1vw);
     line-height: 1.4;
