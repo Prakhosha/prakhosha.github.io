@@ -106,11 +106,10 @@ b {
 /* Intro section styles */
 
 .Hi {
-    border: 1px solid black;
     max-width: 200rem;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 100px;
+    padding-right: 300px;
     padding-left: 100px
 }
 
