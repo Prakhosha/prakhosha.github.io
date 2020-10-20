@@ -109,7 +109,8 @@ b {
     max-width: 78rem;
     margin-right: auto;
     margin-left: auto;
-    /*padding: 0 2rem*/
+    padding-right: 100px;
+    padding-left: 100px
 }
 
 @media (max-width: 768px) {
@@ -145,7 +146,7 @@ b {
 }
 
 .intro h1 {
-    width: 50%;
+    width: 100%;
     font-size: 2rem;
     font-size: calc(2rem + 1vw);
     line-height: 1.4;
