@@ -145,7 +145,7 @@ b {
 }
 
 .intro h1 {
-    width: 100%;
+    width: 50%;
     font-size: 2rem;
     font-size: calc(2rem + 1vw);
     line-height: 1.4;
