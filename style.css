@@ -112,7 +112,7 @@ b {
     padding: 0 2rem
 }
 
-@media (max-width: 200px) {
+@media (max-width: 768px) {
     .Hi {
         padding:0 1rem
     }
